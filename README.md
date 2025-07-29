@@ -1,4 +1,3 @@
-
 📊 Blinkit Grocery Dashboard (Excel)
 This project is an Excel-based interactive dashboard built to analyze sales and performance data for Blinkit’s grocery business.
 
@@ -52,3 +51,5 @@ Support data-driven decisions for inventory planning and marketing
 BlinkIT Grocery Data Excel.xlsx: Contains raw data, KPI calculations, and the dashboard
 
 README.md: Project overview and description
+
+
